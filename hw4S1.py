@@ -86,6 +86,7 @@ def main() :
     #j. Demonstrate testing if the list contains duplicates.
     print("The list has duplicates: ", hasDuplicate(ONE_TEN))
 
+#main function
 if __name__=="__main__":
     main()
 
