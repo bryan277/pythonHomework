@@ -1,5 +1,4 @@
 # Hans Vos
-# 10031891
 # Due Nov 19
 # Homework 4
 
